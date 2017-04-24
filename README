@@ -1,0 +1,7 @@
+This code was originally downloaded from
+https://www.codeproject.com/Articles/7294/Processing-Global-Mouse-and-Keyboard-Hooks-in-C
+
+It was subsequently modified by Benjamin Smedberg to provide a simple utility.
+
+It is licensed under the Code Project Open License (CPOL) 1.02 available at
+the following URL: https://www.codeproject.com/info/cpol10.aspx
